@@ -1,0 +1,20 @@
+{
+  "name": "ce130",
+  "version": "1.0.0",
+  "description": "An application for our church's organization to keep track of necessary information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinhooBong/CE130.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinhooBong/CE130/issues"
+  },
+  "homepage": "https://github.com/JinhooBong/CE130#readme"
+}
