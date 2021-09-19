@@ -8,6 +8,7 @@ This will also be an opportunity to learn React Native and Storybook.
 ### Frontend
 React Native
 Storybook
+Watchman - tool to watch changes in filesystem
 
 ### Backend
 NodeJS
