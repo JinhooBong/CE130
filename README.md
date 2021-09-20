@@ -17,4 +17,4 @@ Webpack
 Babel
 
 ### Database
-PostgreSQL
+Firebase
