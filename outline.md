@@ -1,6 +1,6 @@
 # User Story Requirements
 
-[ ] When user enters site, should see login form
+[x] When user enters site, should see login form
 [ ] User should be able to log in (Authentication with Firebase)
 [ ] User should see CE130 logo on site
 [ ] User should see the next upcoming practice date and time
